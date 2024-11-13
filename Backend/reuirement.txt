@@ -1,0 +1,8 @@
+python-multipart
+fastapi 
+pymongo 
+pydantic-bson 
+motor 
+jwt
+
+uvicorn main:app --reload
